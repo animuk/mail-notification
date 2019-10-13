@@ -1,0 +1,7 @@
+logfile
+mailsend.env
+node_modules
+coverage
+npm-debug.log
+package-lock.json
+.nyc_output
