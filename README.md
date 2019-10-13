@@ -18,7 +18,7 @@
 * `cd mail-notification`
 * `npm install`
 * `npm start`
-* optional: include *.env* in your *.gitignore*
+* `optional: include *.env* in your *.gitignore*`
 
 ### GET Routes
 
