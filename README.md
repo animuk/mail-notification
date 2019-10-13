@@ -7,10 +7,10 @@
 
 * `Export the env variables`
 
-    * `echo "export SENDGRID_API_KEY='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'" >> mailsend.env`
+    * `echo "export SENDGRID_API_KEY='<<Enter Key Here>>'" >> mailsend.env`
     * `echo "export SENDGRID_URL='https://api.sendgrid.com/v3/mail/send'" >> mailsend.env`
-    * `echo "export MAILGUN_API_KEY='1a3c076b11eb8cdc68143ccf4af33c29-af6c0cec-ed3f85ba'" >> mailsend.env`
-    * `echo "export MAILGUN_URL='https://api.mailgun.net/v3/sandbox2741367f90b2469d80c91d72be15861b.mailgun.org/messages'" >> mailsend.env`
+    * `echo "export MAILGUN_API_KEY='<<Enter Key Here>>'" >> mailsend.env`
+    * `echo "export MAILGUN_URL='<< MAILGUN SANDBOX URL>>'" >> mailsend.env`
 
     * `echo "mailsend.env" >> .gitignore`
     * `source ./mailsend.env`
